@@ -1,0 +1,23 @@
+.checkBox{
+	width: 18px;
+	height: 18px;
+	background: #d9d9d9;
+	border-radius: 9px;
+	margin: 0 auto;
+	margin-bottom: 5px;
+}
+
+.not-checked, .checked {
+	background-image: url("http://www.fajrunt.org/icons-18-white.png");
+	background-repeat: no-repeat;
+}
+
+.not-checked {
+	background-position: -18px 0;
+	background-color:#d9d9d9;
+}
+
+.checked {
+	background-position: -720px 0;
+	background-color:#6294bc;
+}

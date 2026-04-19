@@ -1,0 +1,71 @@
+.error{
+    color: #FF0016;
+    padding: 15px 0px;
+  }
+.fix_img_size{
+  width: 160px;
+  height: 160px;
+}
+.custom-img-responsive{
+  display: block;
+
+  max-width: 1000px;
+  height: 458px;
+}
+.img-blog-single {
+  padding: 4px;
+  line-height: 1.846153846;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 2px;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  display: inline-block;
+  width: 100%;
+  height: auto;
+}
+.img-blog {
+  padding: 4px;
+  line-height: 1.846153846;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 2px;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  display: inline-block;
+  max-width: 100%;
+  width: 1000px;
+  height: auto;
+
+}
+
+#search {
+  background-image: url('../../img/searchicon.png'); /* Add a search icon to input */
+  background-position: 8px 6px; /* Position the search icon */
+  background-repeat: no-repeat; /* Do not repeat the icon image */
+  width: 100%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
+}
+
+.search-multiple {
+  background-image: url('../../img/searchicon.png'); /* Add a search icon to input */
+  background-position: 8px 6px; /* Position the search icon */
+  background-repeat: no-repeat; /* Do not repeat the icon image */
+  width: 100%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
+  height: 37px;
+}
+
+
+/* dashboard button   */
+.btn-dashboard{
+ font-size: 12px;
+}
